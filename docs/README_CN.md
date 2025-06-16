@@ -136,6 +136,9 @@
 
 ### 本地部署 - 开发者
 
+#创建虚拟环境
+python -m venv D:\path\to\Easy-Voice-Toolkit
+D:\path\to\Easy-Voice-Toolkit\Scripts\activate
 #### 搭建环境
 
 - 请确保您已安装了`版本≥3.8`的[Python](https://www.python.org/downloads/)
